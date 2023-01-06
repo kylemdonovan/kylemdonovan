@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kylemdonovan
-- 👀 I’m interested in full stack development and humoring grad school.
+- 👀 I’m interested in full stack development.
 - 🌱 I’m currently learning algorithms and software engineering.
 - 💞️ I’m looking to collaborate on cool hacky projects.
 - 📫 Reach me at my school email: donovaky@oregonstate.edu
